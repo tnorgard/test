@@ -1,4 +1,4 @@
-Hi there this is test
+changing test
 
 
 simpleText.txt - some text edited from a recent article on BBC News website.
